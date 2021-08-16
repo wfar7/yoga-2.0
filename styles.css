@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #ece7e7;
+    font-family: 'Roboto', sans-serif;
+    
+}
+body
+{
+    background-color:rgb(202, 197, 197) !important;
+}
+
+.pagina1{
+  margin: 20px auto 0px auto;
+  width: 380px;
+  height: 800px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(73, 71, 71);
+  
+}
+
+.notification{
+    margin: auto auto auto 18px;
+}
+
+
+
+.logo-sinal{
+    margin-left: 220px;
+    max-width: 32px;
+    max-height:32px;
+}
+
+.logo-wifi{
+    margin-left: 5px;
+    max-width: 20px;
+    max-height:32px;
+}
+
+.logo-capacity{
+    margin-left: 5px;
+
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+.logo-yoga {
+    display: block;
+    margin: 100px auto 122px auto;
+}
+
+.input-user{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 21px ;
+    width: 321px;
+    height: 46px;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    border: none;
+    
+   
+}
+
+.input-password{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 35px ;
+    width: 321px;
+    height: 46px;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    border: none;
+
+}
+
+input::placeholder{
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    padding-left: 20px;
+    color: #969696 ;
+
+}
+
+.link-1{
+    margin: 35px 30px 38px 0px;
+    display: block;
+    text-align: right;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+    text-decoration: none;
+    }
+
+.button{
+    display: block;
+    margin: 0 auto;
+    width: 133px;
+    height: 46px;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    border: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.link-2{
+        display: block;
+        margin-top: 21px;
+        margin-bottom: 62px;
+        text-align: center; 
+        text-decoration: none;
+        font-style: normal;
+         font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #969696;
+      
+}
+strong{
+    color: #323232;
+}
+
+.or-paragraph{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+}
+
+.div-imagens{
+    text-align: center;
+    margin: 18px auto 80px auto;
+    
+}
+
+.img-link{
+    margin-left: 16px;
+    margin-right: 16px;
+}

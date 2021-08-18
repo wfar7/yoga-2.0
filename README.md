@@ -22,7 +22,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./assets/IMG_20210807_192926.jpg" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="./assets/IMG_20210807_192926.jpg" width="100px;" alt="Foto wenderson farias"/><br>
         <sub>
           <b>Wenderson Farias</b>
         </sub>
